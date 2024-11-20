@@ -1,73 +1,10 @@
-DOMAIN-SUFFIX, www.binance.com
-DOMAIN-SUFFIX, api.binance.com
-DOMAIN-SUFFIX, fapibak.binance.com
-DOMAIN-SUFFIX, accounts.binance.com
-DOMAIN-SUFFIX, native.binance.com
-DOMAIN-SUFFIX, stream.binance.com
-DOMAIN-SUFFIX, dstream.binance.com
-DOMAIN-SUFFIX, fstream.binance.com
-DOMAIN-SUFFIX, nbstream.binance.com
-DOMAIN-SUFFIX, sfstream.binance.com
-DOMAIN-SUFFIX, themis.binance.com
-DOMAIN-SUFFIX, www.binance.click
-DOMAIN-SUFFIX, api.saasexch.cc
-DOMAIN-SUFFIX, api.saasexch.co
-DOMAIN-SUFFIX, api.saasexch.io
-DOMAIN-SUFFIX, api.saasexch.com
-DOMAIN-SUFFIX, report.binance.im
-DOMAIN-SUFFIX, www.binance.info
-DOMAIN-SUFFIX, accounts.binance.info
-DOMAIN-SUFFIX, accounts.binance.me
-DOMAIN-SUFFIX, edge-api.saasexch.com
-DOMAIN-SUFFIX, stream.binance.info
-DOMAIN-SUFFIX, fstream.binance.info
-DOMAIN-SUFFIX, dstream.binance.info
-DOMAIN-SUFFIX, nbstream.binance.info
-DOMAIN-SUFFIX, native.binance.info
-DOMAIN-SUFFIX, log.bntrace.com
-DOMAIN-SUFFIX, public.bnbstatic.com
-DOMAIN-SUFFIX, bin.bnbstatic.com
-DOMAIN-SUFFIX, www.binancecnt.com
-DOMAIN-SUFFIX, reslove.saasexch.com
-DOMAIN-SUFFIX, www.yingwangtech.cloud
-DOMAIN-SUFFIX, sdstream.yingwangtech.net
-DOMAIN-SUFFIX, nbstream.yingwangtech.net
-DOMAIN-SUFFIX, stream.yingwangtech.net
-DOMAIN-SUFFIX, sfstream.yingwangtech.net
-DOMAIN-SUFFIX, fstream.yingwangtech.net
-DOMAIN-SUFFIX, www.yingwangtech.net
-DOMAIN-SUFFIX, www.yingwangtech.mobi
-DOMAIN-SUFFIX, www.yingwangtech.club
-DOMAIN-SUFFIX, www.yingwangtech.cc
-
-# Related Domains
-
-DOMAIN-SUFFIX, m.api.forter.com 
-DOMAIN-SUFFIX, www.mokexapp.me 
-DOMAIN-SUFFIX, www.mokexapp.net 
-DOMAIN-SUFFIX, native.mokexapp.net 
-DOMAIN-SUFFIX, crt.r2m01.amazontrust.com 
-DOMAIN-SUFFIX, crt.rootca1.amazontrust.com 
-DOMAIN-SUFFIX, crt.rootg2.amazontrust.com 
-DOMAIN-SUFFIX, d3sknckuh1o9tg.cloudfront.net 
-DOMAIN-SUFFIX, public-1306379396.file.myqcloud.com 
-DOMAIN-SUFFIX, domain-config-1306379396.file.myqcloud.com 
-DOMAIN-SUFFIX, b2d8207c-e08a-45cd-bc97-268da85016d2-addfd325e6e3.cdn.forter.com 
-DOMAIN-SUFFIX, bin-prod-new-websocket-alb-1463526464.ap-northeast-1.elb.amazonaws.com 
-DOMAIN-Suffix，aad90d5c0e88c4b4285bd912f64d970d-1403944741.ap-northeast-1.elb.amazonaws.com 
-
-# Suffixes
-
-DOMAIN-Suffix，appsflayer.com 
-DOMAIN-Suffix，binance.cc 
-DOMAIN-Suffix，binance.charity 
-DOMAIN-Suffix，binance.cloud 
-DOMAIN-Suffix，binance.co 
-DOMAIN-Suffix，binance.com 
-DOMAIN-Suffix，binance.info 
-DOMAIN-Suffix，binance.me 
-DOMAIN-Suffix，binance.im 
-DOMAIN-Suffix，binance.net 
-DOMAIN-Suffix，binance.org 
-DOMAIN-Suffix，binance.us 
-DOMAIN-Suffix，binance.vision 
+DOMAIN-SUFFIX,www.binance.com
+DOMAIN-SUFFIX,api.binance.com
+DOMAIN-SUFFIX,accounts.binance.com
+DOMAIN-SUFFIX,stream.binance.com
+DOMAIN-SUFFIX,report.binance.im
+DOMAIN-SUFFIX,www.binance.info
+DOMAIN-SUFFIX,public.bnbstatic.com
+DOMAIN-SUFFIX,www.yingwangtech.cloud
+DOMAIN-SUFFIX,m.api.forter.com 
+DOMAIN-SUFFIX,www.mokexapp.me 

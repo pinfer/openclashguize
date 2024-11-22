@@ -5,7 +5,8 @@
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
-DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+DOMAIN-SUFFIX,120222.xyz
+# DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
@@ -36,116 +37,6 @@ DOMAIN-SUFFIX,qhstatic.com
 DOMAIN-SUFFIX,qhupdate.com
 DOMAIN-SUFFIX,so.com
 
-## Binance - 2024.09.28
-DOMAIN-SUFFIX,120222.xyz
-DOMAIN-SUFFIX, www.binance.com
-DOMAIN-SUFFIX, api.binance.com
-DOMAIN-SUFFIX, fapibak.binance.com
-DOMAIN-SUFFIX, accounts.binance.com
-DOMAIN-SUFFIX, native.binance.com
-DOMAIN-SUFFIX, stream.binance.com
-DOMAIN-SUFFIX, dstream.binance.com
-DOMAIN-SUFFIX, fstream.binance.com
-DOMAIN-SUFFIX, nbstream.binance.com
-DOMAIN-SUFFIX, sfstream.binance.com
-DOMAIN-SUFFIX, themis.binance.com
-DOMAIN-SUFFIX, www.binance.click
-DOMAIN-SUFFIX, api.saasexch.cc
-DOMAIN-SUFFIX, api.saasexch.co
-DOMAIN-SUFFIX, api.saasexch.io
-DOMAIN-SUFFIX, api.saasexch.com
-DOMAIN-SUFFIX, report.binance.im
-DOMAIN-SUFFIX, www.binance.info
-DOMAIN-SUFFIX, accounts.binance.info
-DOMAIN-SUFFIX, accounts.binance.me
-DOMAIN-SUFFIX, edge-api.saasexch.com
-DOMAIN-SUFFIX, stream.binance.info
-DOMAIN-SUFFIX, fstream.binance.info
-DOMAIN-SUFFIX, dstream.binance.info
-DOMAIN-SUFFIX, nbstream.binance.info
-DOMAIN-SUFFIX, native.binance.info
-DOMAIN-SUFFIX, log.bntrace.com
-DOMAIN-SUFFIX, public.bnbstatic.com
-DOMAIN-SUFFIX, bin.bnbstatic.com
-DOMAIN-SUFFIX, www.binancecnt.com
-DOMAIN-SUFFIX, reslove.saasexch.com
-DOMAIN-SUFFIX, www.yingwangtech.cloud
-DOMAIN-SUFFIX, sdstream.yingwangtech.net
-DOMAIN-SUFFIX, nbstream.yingwangtech.net
-DOMAIN-SUFFIX, stream.yingwangtech.net
-DOMAIN-SUFFIX, sfstream.yingwangtech.net
-DOMAIN-SUFFIX, fstream.yingwangtech.net
-DOMAIN-SUFFIX, www.yingwangtech.net
-DOMAIN-SUFFIX, www.yingwangtech.mobi
-DOMAIN-SUFFIX, www.yingwangtech.club
-DOMAIN-SUFFIX, www.yingwangtech.cc
-
-# Related Domains
-DOMAIN-SUFFIX, m.api.forter.com
-DOMAIN-SUFFIX, www.mokexapp.me
-DOMAIN-SUFFIX, www.mokexapp.net
-DOMAIN-SUFFIX, native.mokexapp.net
-DOMAIN-SUFFIX, crt.r2m01.amazontrust.com
-DOMAIN-SUFFIX, crt.rootca1.amazontrust.com
-DOMAIN-SUFFIX, crt.rootg2.amazontrust.com
-DOMAIN-SUFFIX, d3sknckuh1o9tg.cloudfront.net
-DOMAIN-SUFFIX, public-1306379396.file.myqcloud.com
-DOMAIN-SUFFIX, domain-config-1306379396.file.myqcloud.com
-DOMAIN-SUFFIX, b2d8207c-e08a-45cd-bc97-268da85016d2-addfd325e6e3.cdn.forter.com
-DOMAIN-SUFFIX, bin-prod-new-websocket-alb-1463526464.ap-northeast-1.elb.amazonaws.com
-DOMAIN-SUFFIX, aad90d5c0e88c4b4285bd912f64d970d-1403944741.ap-northeast-1.elb.amazonaws.com
-
-DOMAIN-SUFFIX-suffix, appsflayer.com
-DOMAIN-SUFFIX-suffix.cc
-DOMAIN-SUFFIX-suffix.charity
-DOMAIN-SUFFIX-suffix.cloud
-DOMAIN-SUFFIX-suffix.co
-DOMAIN-SUFFIX-suffix.com
-DOMAIN-SUFFIX-suffix.info
-DOMAIN-SUFFIX-suffix.me
-DOMAIN-SUFFIX-suffix.im
-DOMAIN-SUFFIX-suffix.net
-DOMAIN-SUFFIX-suffix.org
-DOMAIN-SUFFIX-suffix.us
-DOMAIN-SUFFIX-suffix.vision
-DOMAIN-SUFFIX-suffixapi.com
-DOMAIN-SUFFIX-suffixzh.be
-DOMAIN-SUFFIX-suffixzh.biz
-DOMAIN-SUFFIX-suffixzh.cc
-DOMAIN-SUFFIX-suffixzh.co
-DOMAIN-SUFFIX-suffixzh.com
-DOMAIN-SUFFIX-suffixzh.info
-DOMAIN-SUFFIX-suffixzh.ink
-DOMAIN-SUFFIX-suffixzh.kim
-DOMAIN-SUFFIX-suffixzh.link
-DOMAIN-SUFFIX-suffixzh.live
-DOMAIN-SUFFIX-suffixzh.mobi
-DOMAIN-SUFFIX-suffixzh.net
-DOMAIN-SUFFIX-suffixzh.pro
-DOMAIN-SUFFIX-suffixzh.sh
-DOMAIN-SUFFIX-suffixzh.top
-DOMAIN-SUFFIX-suffix, bnappzh.co
-DOMAIN-SUFFIX-suffix, bnbstatic.com
-DOMAIN-SUFFIX-suffix, bnbzh.ac
-DOMAIN-SUFFIX-suffix, bntrace.com
-DOMAIN-SUFFIX-suffixcnt.com
-DOMAIN-SUFFIX-suffix, saasexch.cc
-DOMAIN-SUFFIX-suffix, saasexch.co
-DOMAIN-SUFFIX-suffix, saasexch.io
-DOMAIN-SUFFIX-suffix, saasexch.com
-DOMAIN-SUFFIX-suffix, yingwangtech.cloud
-DOMAIN-SUFFIX-suffix, yingwangtech.net
-DOMAIN-SUFFIX-suffix, yingwangtech.mobi
-DOMAIN-SUFFIX-suffix, yingwangtech.club
-DOMAIN-SUFFIX-suffix, yingwangtech.cc
-
-ip-cidr, 47.107.98.27/32
-ip-cidr, 47.107.127.135/32
-ip-cidr, 52.68.117.1/32
-ip-cidr, 35.77.148.188/32
-ip-cidr, 54.150.106.1/32
-ip-cidr, 13.248.135.87/32
-ip-cidr, 47.107.32.31/32
 
 # 58
 DOMAIN-SUFFIX,58.com

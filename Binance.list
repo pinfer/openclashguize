@@ -1,6 +1,7 @@
 # 内容：Binance
 # 域名后缀匹配
 DOMAIN-SUFFIX,www.binance.com
+DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,api.binance.com
 DOMAIN-SUFFIX,accounts.binance.com
 DOMAIN-SUFFIX,stream.binance.com

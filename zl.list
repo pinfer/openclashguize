@@ -9,7 +9,7 @@ DOMAIN-SUFFIX,ghp.ci
 # IP-CIDR: 15
 # IP-CIDR6: 7
 # TOTAL: 65
-IP-CIDR,47.116.69.36/32,DIRECT
+
 DOMAIN-SUFFIX,cf-ipfs.com
 DOMAIN-SUFFIX,cf-ns.com
 DOMAIN-SUFFIX,cf-ns.net
@@ -75,4 +75,5 @@ IP-CIDR6,2606:4700::/32,no-resolve
 IP-CIDR6,2803:f800::/32,no-resolve
 IP-CIDR6,2a06:98c0::/29,no-resolve
 IP-CIDR6,2c0f:f248::/32,no-resolve
+IP-CIDR,47.116.69.36/32,no-resolve
 

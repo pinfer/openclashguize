@@ -3,6 +3,14 @@
 # DOMAIN-KEYWORD,openai
 # DOMAIN-KEYWORD,anthropic
 # DOMAIN-KEYWORD,Claude
+# 内容：perplexity
+DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,perplexity.com
+DOMAIN-SUFFIX,pplx.ai
+DOMAIN-SUFFIX,eppo.cloud
+DOMAIN-SUFFIX,revenuecat.com
+DOMAIN-SUFFIX,singular.net
+DOMAIN-SUFFIX,gstatic.com
 # 域名后缀匹配
 DOMAIN,copilot.microsoft.com
 DOMAIN-SUFFIX,bing.com

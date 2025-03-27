@@ -9,6 +9,6 @@ DOMAIN-SUFFIX,eppo.cloud
 DOMAIN-SUFFIX,revenuecat.com
 DOMAIN-SUFFIX,singular.net
 DOMAIN-SUFFIX,gstatic.com
-
-
+# 内容：grok
+DOMAIN-SUFFIX,grok.com
 

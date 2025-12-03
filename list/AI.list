@@ -4,7 +4,6 @@
 # DOMAIN-KEYWORD,anthropic
 # DOMAIN-KEYWORD,Claude
 DOMAIN-KEYWORD,google
-DOMAIN-KEYWORD,interactivebrokers
 # 域名后缀匹配
 DOMAIN-SUFFIX,paypal.com
 DOMAIN,copilot.microsoft.com
@@ -45,6 +44,7 @@ DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,signalr.net
+
 
 
 

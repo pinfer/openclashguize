@@ -5,7 +5,7 @@
 # 机场节点订阅
 proxy-providers:
   牛逼机场:
-    url: "https://zhuzhuzhu.whtjdasha.com/dazhutou/cf2fe0cd8843ac246882aeb7de240884"
+    url: "https://xiaozhuzhu.whtjdasha.com/dazhutou/cf2fe0cd8843ac246882aeb7de240884"
     type: http
     interval: 86400
     health-check:

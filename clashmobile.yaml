@@ -44,18 +44,6 @@ proxies:
     alpn: [h3]
     skip-cert-verify: true
 
-  - name: "Claw-德国-DE"
-    type: vmess
-    server: nbrahxkagvoo.eu-central-1.clawcloudrun.com
-    port: 443
-    uuid: 5ce20622-df3f-4410-9cd3-c06a77891141
-    alterId: 0
-    cipher: auto
-    tls: true
-    network: ws
-    ws-opts:
-      path: /
-
   - {name: 直连, type: direct}
   - {name: 拒绝, type: reject}
 
@@ -88,7 +76,6 @@ proxy-groups:
     proxies:
       - "233boy-爱尔兰"
       - "233boy-美国"
-      - "Claw-德国-DE"
 
   # 2. 独立业务组
   - {name: 自定义, <<: *default}
@@ -200,12 +187,10 @@ proxy-groups:
   - name: 德国-手动
     type: select
     use: [牛逼机场, 赔钱机场]
-    proxies: ["Claw-德国-DE"]
     filter: "(?=.*(德国|DE|Germany|法兰克福|🇩🇪)).*$"
   - name: 德国-自动
     type: url-test
     use: [牛逼机场, 赔钱机场]
-    proxies: ["Claw-德国-DE"]
     filter: "(?=.*(德国|DE|Germany|法兰克福|🇩🇪)).*$"
 
   - name: 其他-故转
@@ -226,10 +211,8 @@ proxy-groups:
 # 规则引擎
 # ========================
 rules:
-  # —— 直接写明 TradingView 规则，比引用远程文件更稳定高效 ——
   - DOMAIN-SUFFIX,tradingview.com,TradingView
   - DOMAIN-KEYWORD,tradingview,TradingView
-  # ——————————————————————————————————————————————————
   - RULE-SET,自定义规则 / Domain,自定义
   - RULE-SET,YouTube / Domain,油管视频
   - RULE-SET,Twitter / Domain,社交平台X
